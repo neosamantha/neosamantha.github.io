@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+.header{
+	color: #3BBFE1;
+	font-family: 'Pacifico', cursive;
+	}
+
+.navbar-brand{
+  background:left/ contain no-repeat;
+  width: 10px;
+  height:10px;	
+  position: absolute;
+}
+
+.my-parallax{
+	height: 100vh;
+	background: url(beyondbryce_3.jpg);
+	background-repeat: no-repeat;
+	background-size: auto;
+	background-position: center;
+	background-attachment: fixed;
+	margin-top:10px;
+}	
+
+.row h2{
+	text-align: center;
+}
+
+.thumbnail{
+	border: white;	
+}
+
+.img-responsive{
+	display: block;
+	
+	border: 1px solid white;
+	
+}
+
+hr{
+	border:white;	
+}
